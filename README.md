@@ -1,6 +1,6 @@
 # MILC One Dark
 
-Dark [Omarchy](https://omarchy.org/) theme from [MILC Group](https://milcgroup.com/) / [ONE](https://dev.milcgroup.com/) — charcoal olive `#1a1c16`, sage `#dee4d2`, olive `#5d820e`.
+Dark [Omarchy](https://omarchy.org/) theme from [MILC Group](https://milcgroup.com/) — charcoal olive `#1a1c16`, sage `#dee4d2`, olive `#5d820e`.
 
 Pair: [light variant](https://github.com/dl-alexandre/omarchy-milc-one-theme)
 
